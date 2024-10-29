@@ -24,6 +24,6 @@ namespace Core.Models
         {
             return ShowInfo();
         }
-      
+
     }
 }

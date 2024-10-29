@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\ConsoleApp(with List)\\Core\\Core.csproj": {}
+    "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\CodeAcadamy\\ConsoleApp(with List)\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\ConsoleApp(with List)\\Core\\Core.csproj": {
+    "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\CodeAcadamy\\ConsoleApp(with List)\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\ConsoleApp(with List)\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\CodeAcadamy\\ConsoleApp(with List)\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\ConsoleApp(with List)\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\CodeAcadamy\\ConsoleApp(with List)\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\bexti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\ConsoleApp(with List)\\Core\\obj\\",
+        "outputPath": "C:\\Users\\bexti\\OneDrive\\Рабочий стол\\CodeAcadamy\\ConsoleApp(with List)\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

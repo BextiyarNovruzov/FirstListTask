@@ -35,3 +35,22 @@ C:\Users\bexti\OneDrive\Рабочий стол\ConsoleApp(with List)\ConsoleApp
 C:\Users\bexti\OneDrive\Рабочий стол\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).pdb
 C:\Users\bexti\OneDrive\Рабочий стол\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).genruntimeconfig.cache
 C:\Users\bexti\OneDrive\Рабочий стол\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ref\ConsoleApp(with List).dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\ConsoleApp(with List).exe
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\ConsoleApp(with List).deps.json
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\ConsoleApp(with List).runtimeconfig.json
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\ConsoleApp(with List).dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\ConsoleApp(with List).pdb
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\Core.dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\bin\Debug\net8.0\Core.pdb
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).csproj.AssemblyReference.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).AssemblyInfoInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).AssemblyInfo.cs
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).csproj.CoreCompileInputs.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).sourcelink.json
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleA.D69BBBD2.Up2Date
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\refint\ConsoleApp(with List).dll
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).pdb
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ConsoleApp(with List).genruntimeconfig.cache
+C:\Users\bexti\OneDrive\Рабочий стол\CodeAcadamy\ConsoleApp(with List)\ConsoleApp(with List)\obj\Debug\net8.0\ref\ConsoleApp(with List).dll
